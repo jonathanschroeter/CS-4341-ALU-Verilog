@@ -1,5 +1,7 @@
 # Semester Project - Arithmetic Logic Unit (ALU)
 By: Cameron Cook, Jonathan Hocevar, Jonathan Schroeter  
+Class: CS 4341.002
+Professor: Dr. Becker
 Cohort: Burrito
 
 ## Overview
